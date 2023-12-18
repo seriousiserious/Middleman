@@ -1,2 +1,2 @@
 # Middleman
-Lurking middleman. 
+This project is currently discontinued.
