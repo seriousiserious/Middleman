@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Revas
+// @name         MM
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  bunda saver
+// @description  
 // @author       serious
 // @match        https://web.snapchat.com/
 // @icon         https://cdn-icons-png.flaticon.com/512/174/174870.png
